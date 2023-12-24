@@ -12,7 +12,7 @@ import java.util.Arrays;
 
 public final class MobFreeze extends JavaPlugin implements Listener {
 
-    String[] boss = {"ENDER_DRAGON", "WITHER", "WARDEN"};
+    String[] boss = {"ENDER_DRAGON", "WITHER", "WARDEN", "PLAYER"};
 
     @Override
     public void onEnable() {
